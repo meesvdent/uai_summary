@@ -9,7 +9,7 @@ readme
 * [Lecture 7: learning from fully observable data](chapters/chapter_7)
 * [Lecture 8: Learning from partially observable data](chapters/chapter_8.md)
 * [Lecture 9: Integrating learning and reasoning](chapters/chapter_9.md)
-* [Lecture 10: sampling techniques](chapter/chapter_10.md)
+* [Lecture 10: sampling techniques](chapters/chapter_10.md)
 * [Lecture 11: dynamic models](chapters/chapter_11.md)
 
 [Exam questions](practice_questions/exam_questions.md)
